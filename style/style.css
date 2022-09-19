@@ -1,0 +1,15 @@
+
+body{
+    background-color: rgb(230, 220, 24) !important;
+    text-align: center;
+}
+
+
+@media screen and (max-width:600px) {
+    body{
+        background-color: rgb(0, 0, 0) !important;
+        color: aliceblue !important;
+    }
+    
+}
+
